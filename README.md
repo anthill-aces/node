@@ -136,7 +136,12 @@ Snapshots are available to help you sync your node more quickly. See [docs.base.
 
 ## Troubleshooting
 
-For support please join our [Discord](https://discord.gg/buildonbase) post in `🛠｜node-operators`. You can alternatively open a new GitHub issue.
+If you encounter errors when starting or building:
+
+1. Make sure you installed dependencies (`npm install` / `yarn`).
+2. Check that environment variables are configured (.env based on .env.example).
+3. Rebuild or restart the local server.
+4. Consult the documentation if problems persist.
 
 ## Disclaimer
 
