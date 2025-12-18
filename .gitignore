@@ -4,3 +4,17 @@
 /nethermind-data/
 /dependency_updater/dependency_updater
 .DS_Store
+# Local environment & editor overrides
+.env
+.env.local
+.env.*.local
+
+.vscode/
+.idea/
+# Local environment & editor overrides
+.env
+.env.local
+.env.*.local
+
+.vscode/
+.idea/
